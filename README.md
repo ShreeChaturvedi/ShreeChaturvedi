@@ -1,9 +1,16 @@
 <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=105&section=header&text=Shree%20Chaturvedi&fontSize=54&fontAlignY=42&fontColor=ffffff" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=105&section=header&text=Shree%20Chaturvedi&fontSize=54&fontAlignY=42&fontColor=111827" />
   <img
     width="100%"
     alt="Shree Chaturvedi"
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=105&section=header&text=Shree%20Chaturvedi&fontSize=54&fontAlignY=42"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=105&section=header&text=Shree%20Chaturvedi&fontSize=54&fontAlignY=42&fontColor=111827"
   />
+</picture>
+
 
   <b>CS + Math @ Miami University (May 2026)</b><br/>
   <a href="mailto:chaturs@miamioh.edu">chaturs@miamioh.edu</a> ·

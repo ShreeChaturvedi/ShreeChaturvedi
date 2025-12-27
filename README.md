@@ -14,7 +14,7 @@
 
   <b>CS + Math @ Miami University (May 2026)</b><br/>
   <a href="mailto:chaturs@miamioh.edu">chaturs@miamioh.edu</a> ·
-  <a href="https://linkedin.com/in/shree-chaturvedi/">LinkedIn</a>
+  <a href="https://linkedin.com/in/chaturs/">linkedin.com/in/chaturs</a>
 
   <br/>
 

@@ -23,7 +23,7 @@
     &nbsp;&nbsp;•&nbsp;&nbsp;
     <b>1<sup>st</sup> place @ TechStars Startup Weekend</b>
     &nbsp;&nbsp;•&nbsp;&nbsp;
-    <b>1<sup>st</sup> place @ Bain Case Competition</b>
+    <b>1<sup>st</sup> place @ Bain & Co. Case Competition</b>
   </div>
 
   <br/>

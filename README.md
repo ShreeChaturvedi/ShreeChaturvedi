@@ -1,1 +1,3 @@
-### Hi, I'm Shree 👋
+### Hi 👋
+
+I like software engineering and distributed systems
